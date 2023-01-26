@@ -1,2 +1,2 @@
 # GGE5405-Assignment-1
-This is the Google Colab Notebook of the first assignment of the GGE5405 course.
+This is the Google colab notebook of the first assignment of the GGE6505 course.
